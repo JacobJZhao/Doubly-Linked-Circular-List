@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Node
+comment1.params=element
+comment1.target=Node(java.lang.Object)
+comment1.text=\r\n\ Constructor\ for\ a\ new\ Node,\ which\ will\ point\ to\ itself\r\n\ @param\ The\ element\ the\ data\ field\ will\ contain\r\n
+comment2.params=element\ previous\ next
+comment2.target=Node(java.lang.Object,\ Node,\ Node)
+comment2.text=\r\n\ Constructor\ for\ a\ new\ Node\ with\ more\ specifications\r\n\ @param\ The\ element\ the\ data\ field\ will\ contain\r\n\ @param\ The\ previous\ Node\r\n\ @param\ The\ nest\ Node\r\n
+comment3.params=
+comment3.target=java.lang.Object\ getData()
+comment3.text=\r\n\ Returns\ the\ data\ field\r\n
+comment4.params=
+comment4.target=Node\ getNext()
+comment4.text=\r\n\ Returns\ the\ next\ Node\r\n
+comment5.params=
+comment5.target=Node\ getPrevious()
+comment5.text=\r\n\ Returns\ the\ previous\ Node\r\n
+comment6.params=node
+comment6.target=void\ setNext(Node)
+comment6.text=\r\n\ Sets\ the\ next\ Node\r\n\ @param\ What\ Node\ to\ set\ next\ to\r\n
+comment7.params=node
+comment7.target=void\ setPrevious(Node)
+comment7.text=\r\n\ Sets\ the\ previous\ Node\r\n\ @param\ What\ Node\ to\ set\ previous\ to\r\n
+comment8.params=element
+comment8.target=void\ setData(java.lang.Object)
+comment8.text=\r\n\ Sets\ the\ data\ field\r\n\ @param\ What\ element\ to\ set\ data\ to\r\n
+numComments=9

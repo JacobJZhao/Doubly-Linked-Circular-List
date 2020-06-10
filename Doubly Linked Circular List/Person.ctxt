@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Person
+comment1.params=first\ last\ ID
+comment1.target=Person(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ that\ creates\ a\ new\ Person\r\n\ IncorrectLengthException\ is\ thrown\ when\ @param\ ID\ isn't\ nine\ digits\ long\r\n\ @param\ First\ name\ of\ the\ Person\ as\ a\ String\r\n\ @param\ Last\ name\ of\ the\ Person\ as\ a\ String\r\n\ @param\ ID\ of\ the\ Person\ as\ a\ String\r\n
+comment2.params=
+comment2.target=java.lang.String\ getFirstName()
+comment2.text=\r\n\ Returns\ the\ Person's\ first\ name\r\n
+comment3.params=
+comment3.target=java.lang.String\ getLastName()
+comment3.text=\r\n\ Returns\ the\ Person's\ last\ name\r\n
+comment4.params=
+comment4.target=java.lang.String\ getID()
+comment4.text=\r\n\ Returns\ the\ Person's\ ID\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ toString\ method\r\n\ Returns\ as\ "firstname\ lastname,\ ID"\r\n
+numComments=6

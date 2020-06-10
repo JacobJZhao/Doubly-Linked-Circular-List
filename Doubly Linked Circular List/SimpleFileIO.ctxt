@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=SimpleFileIO
+comment1.params=
+comment1.target=SimpleFileIO()
+comment1.text=\r\n\ Default\ constructor,\ reads\ the\ default\ input.txt\ file\r\n
+comment2.params=filename
+comment2.target=SimpleFileIO(java.lang.String)
+comment2.text=\r\n\ Construcor\ for\ other\ files\r\n\ @param\ Name\ of\ file\ to\ be\ read\r\n
+comment3.params=filename
+comment3.target=DLCList\ read(java.lang.String)
+comment3.text=\r\n\ Reads\ the\ specified\ file,\ and\ adds\ each\ line\ as\ a\ new\ element\r\n\ Used\ in\ both\ constructors\r\n\ @param\ Name\ of\ file\ to\ be\ read\r\n
+comment4.params=list
+comment4.target=DLCList\ modify(DLCList)
+comment4.text=\r\n\ Modifies\ a\ list\ of\ integers,\ doubling\ each\ number\r\n\ Used\ in\ createFile\r\n\ @param\ The\ list\ of\ numbers,\ in\ String\ form,\ to\ be\ doubled\r\n
+comment5.params=filename
+comment5.target=boolean\ createFile(java.lang.String)
+comment5.text=\r\n\ Creates\ a\ new\ file\ of\ modified\ integers\ in\ String\ form\r\n\ Returns\ a\ boolean,\ signifys\ success\r\n\ @param\ The\ name\ of\ the\ new\ file\ to\ be\ created\r\n
+comment6.params=
+comment6.target=void\ seeFile()
+comment6.text=\r\n\ Prints\ the\ list,\ which\ contains\ the\ current\ file\r\n
+numComments=7
